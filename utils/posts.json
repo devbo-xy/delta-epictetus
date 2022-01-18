@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "/thumbnail-2.png",
+    "category": "Internet",
+    "date": "Januari 13, 2022",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorAvatar": "author-2.png",
+    "authorName": "Reza Rahardian",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 2,
+    "thumbnail": "/thumbnail-3.png",
+    "category": "9 to 5",
+    "date": "Januari 12, 2022",
+    "title": "The More Important the Work, the More Important the Rest",
+    "shortDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+    "authorAvatar": "author-3.png",
+    "authorName": "Daffa Sugiono",
+    "authorJob": "Enterpreneur"
+  },
+  {
+    "id": 3,
+    "thumbnail": "/thumbnail-4.png",
+    "category": "Inspirations",
+    "date": "Januari 11, 2022",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorAvatar": "author-4.png",
+    "authorName": "Alexandre",
+    "authorJob": "Front-end Engineer"
+  },
+  {
+    "id": 4,
+    "thumbnail": "/thumbnail-5.png",
+    "category": "Internet",
+    "date": "Januari 13, 2022",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorAvatar": "author-5.png",
+    "authorName": "Reza Rahardian",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": 5,
+    "thumbnail": "/thumbnail-6.png",
+    "category": "9 to 5",
+    "date": "Januari 12, 2022",
+    "title": "The More Important the Work, the More Important the Rest",
+    "shortDescription": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+    "authorAvatar": "author-6.png",
+    "authorName": "Daffa Sugiono",
+    "authorJob": "Enterpreneur"
+  },
+  {
+    "id": 6,
+    "thumbnail": "/thumbnail-7.png",
+    "category": "Inspirations",
+    "date": "Januari 11, 2022",
+    "title": "How to design a product that can grow itself 10x in year",
+    "shortDescription": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+    "authorAvatar": "author-7.png",
+    "authorName": "Alexandre",
+    "authorJob": "Front-end Engineer"
+  }
+]
