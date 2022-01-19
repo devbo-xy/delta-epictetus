@@ -6,6 +6,18 @@ import Layout from '@components/Layout';
 import mockPosts from '../utils/posts.json';
 import Head from 'next/head';
 
+export async function getServerSideProps() {
+  const req = await fetch(process.env.APIURL + '/api/posts');
+
+  const res = await req.json();
+
+  console.log(res.data);
+
+  return {
+    props: {}
+  }
+}
+
 export default function Home() {
   const [posts, setPosts] = useState(mockPosts);
 
