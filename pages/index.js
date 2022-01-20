@@ -6,19 +6,29 @@ import Layout from '@components/Layout';
 import mockPosts from '../utils/posts.json';
 import Head from 'next/head';
 
-export async function getServerSideProps() {
-  const req = await fetch(process.env.APIURL + '/api/posts');
+// export async function getServerSideProps() {
+// const req = await fetch(process.env.APIURL + '/api/posts');
+// const res = await req.json();
 
-  const res = await req.json();
+// const reqFeatured = await fetch(process.env.APIURL + '/api/posts?populate=*')
+// let featured = await reqFeatured.json();
 
-  console.log(res.data);
+// if (featured.length < 1) {
+//   featured = {};
+// }
 
-  return {
-    props: {}
-  }
-}
+// console.log(res.data);
+
+//   return {
+//     props: {
+//       featured: featured.data
+//     }
+//   }
+// }
+
 
 export default function Home() {
+
   const [posts, setPosts] = useState(mockPosts);
 
   return (
